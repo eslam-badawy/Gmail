@@ -1,0 +1,8 @@
+{
+  "GmailUsername": "FlairstechUpland@gmail.com",
+  "GmailPassword": "Test@123",
+  "AttachmentPath": "C:\\Users\\eslam.badawy\\source\\repos\\Gmail\\Utilities\\AttachmentFile.txt",
+  "Subject": "Test Email Subject",
+  "Body": "This is a test email body.",
+  "GmailUrl": "https://mail.google.com/"
+}
